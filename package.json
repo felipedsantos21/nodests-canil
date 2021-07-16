@@ -2,7 +2,7 @@
   "name": "nodests-canil",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/server.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start-dev": "nodemon -e ts,json,mustache src/server.ts"
